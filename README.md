@@ -175,7 +175,7 @@ If you've read this far, let's talk.
   <img src="https://img.shields.io/badge/GitHub-Knowledge--Benjamin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://x.com/Knowledgebenj">
+<a href="https://x.com/drknowledgebenj">
   <img src="https://img.shields.io/badge/X-%40Knowledgebenj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
