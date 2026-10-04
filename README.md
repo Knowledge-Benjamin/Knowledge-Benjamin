@@ -110,25 +110,6 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 ---
 
-## Skill Depth
-
-<div align="center">
-
-| Area | Confidence | Level |
-|------|-----------|-------|
-| Full-Stack Development (Next.js / React / Node) | `████████████████████` 95% | Expert |
-| Python & Backend APIs (FastAPI / REST / GraphQL) | `██████████████████░░` 90% | Expert |
-| AI Agent Orchestration (LangGraph / LangChain) | `████████████████░░░░` 80% | Advanced |
-| Machine Learning (PyTorch / HuggingFace) | `██████████████░░░░░░` 70% | Proficient |
-| Cloud & DevOps (Docker / Kubernetes / AWS) | `████████████░░░░░░░░` 65% | Proficient |
-| Vector Databases & RAG Pipelines | `████████████████░░░░` 80% | Advanced |
-
-</div>
-
-<br/>
-
----
-
 ## Activity & Stats
 
 <div align="center">
