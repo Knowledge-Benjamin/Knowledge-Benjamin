@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- MIND-BLOWING ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00c853,100:005a22&height=250&section=header&text=Knowledge-Benjamin&fontSize=70&fontAlignY=35&desc=System%20Architect%20%E2%80%A2%20AI%20Orchestrator%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00c853,100:005a22&height=250&section=header&text=Hey,%20I'm%20Knowledge%20Benjamin%20%F0%9F%91%8B&fontSize=70&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Tinkerer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br/>
 
 <!-- GLOWING TYPING TERMINAL -->
 <a href="https://github.com/Knowledge-Benjamin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=50&lines=%3E_++INITIALIZING+NEURAL+LINK...;%3E_++LOADING+AUTONOMOUS+AGENT+SWARMS...;%3E_++COMPILING+HIGH-THROUGHPUT+APPLICATIONS...;%3E_++SYSTEM+READY." alt="Terminal Output" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=50&lines=%3E_++building+full-stack+applications...;%3E_++tinkering+with+ai+agents+and+llms...;%3E_++figuring+out+how+to+scale+things...;%3E_++powered+by+coffee+and+curiosity." alt="Terminal Output" />
 </a>
 
 <!-- FIXED VIEWS & STATUS BADGES -->
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Knowledge-Benjamin&icon=1&color=6" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/OPERATIVE_STATUS-ONLINE-00C853?style=for-the-badge&logo=opsgenie&logoColor=white&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building_Cool_Things-00C853?style=for-the-badge&logo=opsgenie&logoColor=white&labelColor=000000" alt="Status" />
   <a href="https://github.com/Knowledge-Benjamin?tab=followers">
     <img src="https://img.shields.io/github/followers/Knowledge-Benjamin?label=Followers&style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="Followers" />
   </a>
@@ -23,23 +23,23 @@
 
 ---
 
-### 🌌 ❬ SYSTEM ARCHITECTURE & DIRECTIVES ❭
+### 💡 ❬ WHAT I DO ❭
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>🧠 CORE PROTOCOLS</b><br/><br/>
-      <kbd>Multi-Agent Swarm Orchestration</kbd><br/>
-      <kbd>Distributed Cloud Infrastructures</kbd><br/>
-      <kbd>High-Throughput Full-Stack Systems</kbd><br/>
-      <kbd>LLM RAG & Vector Data Engineering</kbd>
+      <b>🛠️ Core Focus</b><br/><br/>
+      <kbd>Full-Stack Web Development</kbd><br/>
+      <kbd>AI Agents & LLM Workflows</kbd><br/>
+      <kbd>Cloud Architecture</kbd><br/>
+      <kbd>Vector Databases & RAG</kbd>
     </td>
     <td align="center" width="50%">
-      <b>⚡ CURRENT OPERATION</b><br/><br/>
-      <i>"Engineering scalable, autonomous AI systems that blur the line between software and cognition."</i><br/><br/>
+      <b>🌱 Currently</b><br/><br/>
+      <i>"Right now, I'm focused on bridging the gap between experimental AI and production-ready apps. I love figuring out how to make complex systems reliable and actually useful."</i><br/><br/>
       <a href="mailto:cbrainic@gmail.com">
-        <img src="https://img.shields.io/badge/-INITIATE_CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=00c853&color=000000" alt="Contact" />
+        <img src="https://img.shields.io/badge/-Say_Hello-000000?style=for-the-badge&logo=gmail&logoColor=00c853&color=000000" alt="Contact" />
       </a>
     </td>
   </tr>
@@ -48,7 +48,7 @@
 
 ---
 
-### ⚙️ ❬ NEURAL NETWORK & TECH STACK ❭
+### ⚙️ ❬ MY TOOLKIT ❭
 
 <div align="center">
   <table border="0" style="background-color: transparent;">
@@ -71,9 +71,9 @@
 
 ---
 
-### 🛰️ ❬ COMPREHENSIVE TELEMETRY ❭
+### 📊 ❬ GITHUB STATS & HABITS ❭
 
-> **Note:** The telemetry dashboard below is auto-generated using GitHub Actions and updates in real-time tracking habits, codebase lines, and achievements (replacing the empty trophies).
+> **Note:** The dashboard below updates automatically and shows a holistic view of what I'm working on, my language breakdown, and my recent activity.
 
 <div align="center">
   <!-- GitHub Metrics Action SVG -->
@@ -86,7 +86,7 @@
 
 ---
 
-### 🕹️ ❬ CONTRIBUTION MATRIX ❭
+### 🎨 ❬ CONTRIBUTION VISUALS ❭
 
 <div align="center">
   <table border="0">
@@ -100,7 +100,7 @@
       </td>
       <!-- Contribution Snake View -->
       <td width="50%" align="center">
-        <b>Activity Serpent</b><br/><br/>
+        <b>Activity Snake</b><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/output/github-contribution-grid-snake.svg">
@@ -113,20 +113,20 @@
 
 ---
 
-### 🌐 ❬ SECURE UPLINK ❭
+### 🌐 ❬ LET'S CONNECT ❭
 
 <div align="center">
   <a href="https://github.com/Knowledge-Benjamin">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/X_NETWORK-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="Twitter" />
   </a>
   <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Transmission" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
 
 <br/>
