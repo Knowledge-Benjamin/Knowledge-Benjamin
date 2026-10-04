@@ -11,17 +11,17 @@ svg_files = glob.glob('dist/*.svg')
 css_injection = """
 /* --- INJECTED: SLOWER ANIMATION & MILESTONE COLORS --- */
 svg {
-    --snake-duration: 20s; /* Much slower and fluid */
+    --snake-duration: 120s; /* Much slower and fluid */
 }
 
-/* Override the default animation to be slower and add color changes */
-path, rect {
-    animation-duration: 20s !important; 
+/* Target the specific classes Platane/snk uses for the grid and snake */
+.s, .u, .c {
+    animation-duration: 120s !important; 
 }
 
 /* Target the snake specifically. Snk usually gives it a specific color in the inline style or class */
-[fill="#7C3AED"], [stroke="#7C3AED"] {
-    animation: snake-milestone-colors 20s infinite linear !important;
+[fill="#7C3AED"], [stroke="#7C3AED"], .s {
+    animation: snake-milestone-colors 120s infinite linear !important;
 }
 
 @keyframes snake-milestone-colors {
@@ -42,9 +42,6 @@ for file_path in svg_files:
     if '</style>' in svg_content:
         svg_content = svg_content.replace('</style>', css_injection + '\n</style>')
         print(f"Injected milestone CSS into {file_path}")
-    
-    # Also slow down the existing variables if they exist
-    svg_content = svg_content.replace('5s', '20s').replace('3s', '20s')
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(svg_content)
