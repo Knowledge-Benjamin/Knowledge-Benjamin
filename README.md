@@ -11,7 +11,7 @@
 <img src="https://visitcount.itsvg.in/api?id=Knowledge-Benjamin&label=Profile%20Views&color=7&icon=0&pretty=true" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/Knowledge-Benjamin?tab=followers">
-  <img src="https://img.shields.io/github/followers/Knowledge-Benjamin?style=flat&logo=github&logoColor=white&label=Followers&color=6e40c9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Knowledge-Benjamin?style=flat&logo=github&logoColor=white&label=Followers&color=6e40c9" alt="Followers" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@ Most of my work lives at the intersection of **modern web development** and **AI
 Right now I'm focused on:
 
 - Building multi-agent workflows that solve real problems, not toy examples
-- Shipping full-stack applications with Next.js, TypeScript, and FastAPI  
+- Shipping full-stack applications with Next.js, TypeScript, and FastAPI
 - Exploring how vector databases and RAG can make AI genuinely useful
 - Writing better code than I did last month
 
@@ -58,9 +58,9 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 **AI & Agents**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/> &nbsp; <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LangGraph-5A2D82?style=flat-square&logoColor=white" height="20"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 
-`PyTorch` &nbsp; `LangChain` &nbsp; `LangGraph` &nbsp; `OpenAI`
+`LangChain` &nbsp; `LangGraph` &nbsp; `OpenAI` &nbsp; `PyTorch`
 
 </td>
 <td align="center" width="33%">
@@ -129,7 +129,7 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 ---
 
-## Stats
+## Activity & Stats
 
 <div align="center">
 
@@ -138,8 +138,7 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knowledge-Benjamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7957D5&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knowledge-Benjamin&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7957D5&line=7957D5&point=ffffff" width="49%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knowledge-Benjamin&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7957D5&line=7957D5&point=ffffff" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -147,15 +146,14 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 ---
 
-## Holistic Metrics
+## Live Dashboard
+
+> Every metric below is fetched live from the GitHub API and regenerated every 6 hours via GitHub Actions. Nothing is hardcoded.
 
 <div align="center">
 
-> Auto-generated — updates every 6 hours via GitHub Actions.
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/main/github-metrics.svg">
-  <img src="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/main/github-metrics.svg" width="100%" alt="Metrics Dashboard" />
+  <img src="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/main/github-stats-card.svg" width="100%" alt="Live GitHub Stats Dashboard" />
 </picture>
 
 </div>
@@ -199,7 +197,7 @@ If you've read this far, let's talk.
 </a>
 &nbsp;
 <a href="https://x.com/Knowledgebenj">
-  <img src="https://img.shields.io/badge/X-%40Knowledgebenj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  <img src="https://img.shields.io/badge/X-%40Knowledgebenj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <br/><br/>
