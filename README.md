@@ -133,12 +133,8 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Knowledge-Benjamin&theme=tokyonight&hide_border=true&mode=daily&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5" width="49%" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=Knowledge-Benjamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7957D5&icon_color=7957D5&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knowledge-Benjamin&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7957D5&line=7957D5&point=ffffff" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Knowledge-Benjamin&theme=tokyonight&hide_border=true&mode=daily&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Knowledge-Benjamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=E6EDF3&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 
 </div>
 
