@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240">
+    <rect width="860" height="240" fill="#0D1117" rx="12"/>
+    <rect x="0" y="0" width="860" height="3" fill="#7C3AED" rx="1.5"/>
+    
+    <text x="28" y="45" font-size="20" font-weight="bold" fill="#E6EDF3" font-family="sans-serif">Grid Conquest</text>
+    <text x="832" y="45" text-anchor="end" font-size="14" fill="#8B949E" font-family="monospace">Active Days: 105 / 365 (28.8%)</text>
+    
+    <rect x="28" y="60" width="804" height="8" fill="#21262D" rx="4"/>
+    <rect x="28" y="60" width="231.2876712328767" height="8" fill="#7C3AED" rx="4"/>
+    
+    
+        <rect x="28.0" y="80" width="192.0" height="70" fill="#D2992215" stroke="#D29922" rx="8"/>
+        <text x="124.0" y="115" text-anchor="middle" font-size="20" font-weight="bold" fill="#D29922" font-family="sans-serif">25%</text>
+        <text x="124.0" y="135" text-anchor="middle" font-size="12" fill="#D29922" font-family="monospace">Bronze Mastery</text>
+        
+        <rect x="232.0" y="80" width="192.0" height="70" fill="#161B22" stroke="#21262D" rx="8"/>
+        <text x="328.0" y="115" text-anchor="middle" font-size="20" font-weight="bold" fill="#6E7681" font-family="sans-serif">50%</text>
+        <text x="328.0" y="135" text-anchor="middle" font-size="12" fill="#6E7681" font-family="monospace">Silver Mastery</text>
+        
+        <rect x="436.0" y="80" width="192.0" height="70" fill="#161B22" stroke="#21262D" rx="8"/>
+        <text x="532.0" y="115" text-anchor="middle" font-size="20" font-weight="bold" fill="#6E7681" font-family="sans-serif">75%</text>
+        <text x="532.0" y="135" text-anchor="middle" font-size="12" fill="#6E7681" font-family="monospace">Gold Mastery</text>
+        
+        <rect x="640.0" y="80" width="192.0" height="70" fill="#161B22" stroke="#21262D" rx="8"/>
+        <text x="736.0" y="115" text-anchor="middle" font-size="20" font-weight="bold" fill="#6E7681" font-family="sans-serif">100%</text>
+        <text x="736.0" y="135" text-anchor="middle" font-size="12" fill="#6E7681" font-family="monospace">Diamond Mastery</text>
+        
+    
+    <text x="430.0" y="195" text-anchor="middle" font-size="12" fill="#6E7681" font-family="monospace">"The grid is your canvas. Paint it green."</text>
+    <text x="430.0" y="215" text-anchor="middle" font-size="10" fill="#6E7681" font-family="monospace">Updated automatically via GitHub Actions</text>
+    </svg>
