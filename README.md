@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a software engineer who gets genuinely excited about building things — full-stack web applications, AI systems, and everything in between. I've spent a lot of time figuring out how to make large language models and agent frameworks actually useful in production, not just in demos.
+I'm a software engineer who gets genuinely excited about building things, full-stack web applications, AI systems, and everything in between. I've spent a lot of time figuring out how to make large language models and agent frameworks actually useful in production, not just in demos.
 
 Most of my work lives at the intersection of **modern web development** and **AI orchestration**. I like systems that are fast, thoughtful, and built to last.
 
@@ -141,10 +141,6 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 <br/>
 
 ---
-
-## Live Dashboard
-
-> Every metric below is fetched live from the GitHub API and regenerated every 6 hours via GitHub Actions. Nothing is hardcoded.
 
 <div align="center">
 
