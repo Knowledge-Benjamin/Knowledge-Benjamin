@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="960"
+     viewBox="0 0 900 960">
+  <defs>
+    <linearGradient id="bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7957D5"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="top-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7957D5"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="960" fill="#0D1117" rx="12"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#top-line)" rx="1.5"/>
+
+  
+  <!-- HEADER -->
+  <text x="28" y="36" font-size="22" font-weight="700" fill="#E6EDF3"
+        font-family="'-apple-system','Segoe UI',sans-serif">Knowledge Benjamin</text>
+  <text x="28" y="58" font-size="12" fill="#8B949E"
+        font-family="monospace">github.com/Knowledge-Benjamin
+  </text>
+  <text x="872" y="36" text-anchor="end" font-size="12" fill="#8B949E"
+        font-family="monospace">Member since Jul 2021</text>
+  <line x1="28" y1="68" x2="872" y2="68" stroke="#30363D" stroke-width="1"/>
+
+
+  <!-- Profile stat cards -->
+  <rect x="28.0" y="88" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="28.0" y="88" width="3" height="78" fill="#7957D5" rx="1.5"/>
+<text x="129.0" y="112" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">TOTAL REPOS</text>
+<text x="129.0" y="138" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">28</text>
+<text x="129.0" y="154" text-anchor="middle" font-size="10" fill="#8B949E">owned</text>
+<rect x="242.0" y="88" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="242.0" y="88" width="3" height="78" fill="#D29922" rx="1.5"/>
+<text x="343.0" y="112" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">STARS</text>
+<text x="343.0" y="138" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">5</text>
+<text x="343.0" y="154" text-anchor="middle" font-size="10" fill="#8B949E">across all repos</text>
+<rect x="456.0" y="88" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="456.0" y="88" width="3" height="78" fill="#58A6FF" rx="1.5"/>
+<text x="557.0" y="112" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">FORKS</text>
+<text x="557.0" y="138" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">1</text>
+<text x="557.0" y="154" text-anchor="middle" font-size="10" fill="#8B949E">across all repos</text>
+<rect x="670.0" y="88" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="670.0" y="88" width="3" height="78" fill="#3FB950" rx="1.5"/>
+<text x="771.0" y="112" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">WATCHERS</text>
+<text x="771.0" y="138" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">0</text>
+<text x="771.0" y="154" text-anchor="middle" font-size="10" fill="#8B949E">across all repos</text>
+<rect x="28.0" y="178" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="28.0" y="178" width="3" height="78" fill="#7957D5" rx="1.5"/>
+<text x="129.0" y="202" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">FOLLOWERS</text>
+<text x="129.0" y="228" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">2</text>
+<rect x="242.0" y="178" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="242.0" y="178" width="3" height="78" fill="#4F46E5" rx="1.5"/>
+<text x="343.0" y="202" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">FOLLOWING</text>
+<text x="343.0" y="228" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">1</text>
+<rect x="456.0" y="178" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="456.0" y="178" width="3" height="78" fill="#58A6FF" rx="1.5"/>
+<text x="557.0" y="202" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">ORGANIZATIONS</text>
+<text x="557.0" y="228" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">0</text>
+<rect x="670.0" y="178" width="202.0" height="78" fill="#161B22" rx="8"/>
+<rect x="670.0" y="178" width="3" height="78" fill="#3FB950" rx="1.5"/>
+<text x="771.0" y="202" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">CONTRIBUTED TO</text>
+<text x="771.0" y="228" text-anchor="middle" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">21</text>
+<text x="771.0" y="244" text-anchor="middle" font-size="10" fill="#8B949E">repos (past year)</text>
+
+
+  <!-- Commit activity -->
+  <rect x="28" y="208" width="844" height="114" fill="#161B22" rx="8"/>
+<text x="44" y="232" font-size="12" font-weight="600" fill="#8B949E" font-family="monospace" letter-spacing="1">COMMIT ACTIVITY  ·  PAST 12 MONTHS</text>
+<text x="44" y="254" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">Total commits</text>
+<text x="199" y="254" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="end">951</text>
+<rect x="206" y="246" width="216.0" height="8" fill="#30363D" rx="4"/>
+<rect x="206" y="246" width="216" height="8" fill="url(#bar-grad)" rx="4"/>
+<text x="44" y="282" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">Last 30 days</text>
+<text x="199" y="282" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="end">9</text>
+<rect x="206" y="274" width="216.0" height="8" fill="#30363D" rx="4"/>
+<rect x="206" y="274" width="6" height="8" fill="url(#bar-grad)" rx="4"/>
+<text x="44" y="310" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">Today</text>
+<text x="199" y="310" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="end">5</text>
+<rect x="206" y="302" width="216.0" height="8" fill="#30363D" rx="4"/>
+<rect x="206" y="302" width="6" height="8" fill="url(#bar-grad)" rx="4"/>
+
+
+  <!-- Pull requests -->
+  <rect x="28" y="334" width="408.0" height="110" fill="#161B22" rx="8"/>
+<text x="44" y="358" font-size="12" font-weight="600" fill="#8B949E" font-family="monospace" letter-spacing="1">PULL REQUESTS</text>
+<text x="44" y="386" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">PRs opened</text>
+<text x="244" y="386" font-size="12" font-weight="600" fill="#3FB950" text-anchor="end">1</text>
+<text x="44" y="410" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">PRs reviewed</text>
+<text x="244" y="410" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="end">0</text>
+
+
+  <!-- Issues -->
+  <rect x="464.0" y="334" width="408.0" height="110" fill="#161B22" rx="8"/>
+<text x="480.0" y="358" font-size="12" font-weight="600" fill="#8B949E" font-family="monospace" letter-spacing="1">ISSUES</text>
+<text x="480.0" y="386" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">Issues opened</text>
+<text x="680.0" y="386" font-size="12" font-weight="600" fill="#D29922" text-anchor="end">0</text>
+<text x="480.0" y="410" font-size="12" fill="#8B949E" font-family="'Segoe UI',sans-serif">Issues closed</text>
+<text x="680.0" y="410" font-size="12" font-weight="600" fill="#3FB950" text-anchor="end">0</text>
+
+
+  <!-- Today's activity -->
+  <rect x="28" y="456" width="844" height="96" fill="#161B22" rx="8"/>
+<circle cx="48" cy="480" r="5" fill="#3FB950"/>
+<text x="62" y="485" font-size="12" font-weight="600" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">5 commits across 1 repo today</text>
+<text x="62" y="509" font-size="11" fill="#8B949E" font-family="'Segoe UI',sans-serif">Knowledge-Benjamin</text>
+
+
+  <!-- Languages -->
+  <rect x="28" y="564" width="844" height="324" fill="#161B22" rx="8"/>
+<text x="44" y="588" font-size="12" font-weight="600" fill="#8B949E" font-family="monospace" letter-spacing="1">TOP LANGUAGES  ·  BY BYTES</text>
+<circle cx="50" cy="607" r="5" fill="#3178c6"/>
+<text x="60" y="612" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">TypeScript</text>
+<text x="878" y="612" font-size="11" fill="#8B949E" text-anchor="end">41.4%</text>
+<rect x="44" y="618" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="618" width="308" height="7" fill="#3178c6" rx="3.5"/>
+<circle cx="50" cy="641" r="5" fill="#f1e05a"/>
+<text x="60" y="646" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">JavaScript</text>
+<text x="878" y="646" font-size="11" fill="#8B949E" text-anchor="end">32.2%</text>
+<rect x="44" y="652" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="652" width="239" height="7" fill="#f1e05a" rx="3.5"/>
+<circle cx="50" cy="675" r="5" fill="#DA5B0B"/>
+<text x="60" y="680" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">Jupyter Notebook</text>
+<text x="878" y="680" font-size="11" fill="#8B949E" text-anchor="end">16.5%</text>
+<rect x="44" y="686" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="686" width="122" height="7" fill="#DA5B0B" rx="3.5"/>
+<circle cx="50" cy="709" r="5" fill="#3572A5"/>
+<text x="60" y="714" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">Python</text>
+<text x="878" y="714" font-size="11" fill="#8B949E" text-anchor="end">6.5%</text>
+<rect x="44" y="720" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="720" width="48" height="7" fill="#3572A5" rx="3.5"/>
+<circle cx="50" cy="743" r="5" fill="#663399"/>
+<text x="60" y="748" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">CSS</text>
+<text x="878" y="748" font-size="11" fill="#8B949E" text-anchor="end">2.7%</text>
+<rect x="44" y="754" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="754" width="20" height="7" fill="#663399" rx="3.5"/>
+<circle cx="50" cy="777" r="5" fill="#e34c26"/>
+<text x="60" y="782" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">HTML</text>
+<text x="878" y="782" font-size="11" fill="#8B949E" text-anchor="end">0.3%</text>
+<rect x="44" y="788" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="788" width="4" height="7" fill="#e34c26" rx="3.5"/>
+<circle cx="50" cy="811" r="5" fill="#336790"/>
+<text x="60" y="816" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">PLpgSQL</text>
+<text x="878" y="816" font-size="11" fill="#8B949E" text-anchor="end">0.1%</text>
+<rect x="44" y="822" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="822" width="4" height="7" fill="#336790" rx="3.5"/>
+<circle cx="50" cy="845" r="5" fill="#A97BFF"/>
+<text x="60" y="850" font-size="12" fill="#E6EDF3" font-family="'Segoe UI',sans-serif">Kotlin</text>
+<text x="878" y="850" font-size="11" fill="#8B949E" text-anchor="end">0.1%</text>
+<rect x="44" y="856" width="744" height="7" fill="#30363D" rx="3.5"/>
+<rect x="44" y="856" width="4" height="7" fill="#A97BFF" rx="3.5"/>
+
+
+  <!-- Footer -->
+  <text x="450.0" y="920" text-anchor="middle" font-size="11" fill="#8B949E" font-family="monospace">Updated Oct 04, 2026 · 06:34 UTC  ·  github.com/Knowledge-Benjamin</text>
+
+</svg>
