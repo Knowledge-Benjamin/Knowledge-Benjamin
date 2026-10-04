@@ -30,17 +30,19 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate stats SVG
+      - name: Generate stats and conquest SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Knowledge-Benjamin
           STATS_OUT: github-stats-card.svg
-        run: python scripts/generate_stats.py
+        run: |
+          python scripts/generate_stats.py
+          python scripts/generate_conquest.py
 
       - name: Commit & push SVG
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats-card.svg
-          git diff --cached --quiet || git commit -m "chore(stats): refresh dynamic stats card [skip ci]"
+          git add github-stats-card.svg github-conquest-card.svg
+          git diff --cached --quiet || git commit -m "chore(stats): refresh dynamic stats and conquest cards [skip ci]"
           git push

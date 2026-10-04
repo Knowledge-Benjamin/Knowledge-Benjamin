@@ -159,6 +159,12 @@ If something I've built is useful to you, or you want to talk shop — I'm alway
 <div align="center">
 
 <picture>
+  <img src="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/main/github-conquest-card.svg" width="100%" alt="Grid Conquest" />
+</picture>
+
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Knowledge-Benjamin/Knowledge-Benjamin/output/github-contribution-grid-snake.svg" width="100%">
