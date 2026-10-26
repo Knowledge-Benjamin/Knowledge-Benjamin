@@ -3,10 +3,10 @@
     <rect x="0" y="0" width="860" height="3" fill="#7C3AED" rx="1.5"/>
     
     <text x="28" y="45" font-size="20" font-weight="bold" fill="#E6EDF3" font-family="sans-serif">Grid Conquest</text>
-    <text x="832" y="45" text-anchor="end" font-size="14" fill="#8B949E" font-family="monospace">Active Days: 113 / 365 (31.0%)</text>
+    <text x="832" y="45" text-anchor="end" font-size="14" fill="#8B949E" font-family="monospace">Active Days: 113 / 366 (30.9%)</text>
     
     <rect x="28" y="60" width="804" height="8" fill="#21262D" rx="4"/>
-    <rect x="28" y="60" width="248.9095890410959" height="8" fill="#7C3AED" rx="4"/>
+    <rect x="28" y="60" width="248.22950819672133" height="8" fill="#7C3AED" rx="4"/>
     
     
         <rect x="28.0" y="80" width="192.0" height="70" fill="#D2992215" stroke="#D29922" rx="8"/>
